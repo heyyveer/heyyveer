@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Veer Tiwari
+**A passionate Data Analyst 
+
+Email Me 👉 ✉️ **virtiw1303@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** an private project 
+- 🌱 **I’m currently learning:** Data Science
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** virtiw1303@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyveeer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heyveer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virtiw1303@gmail.com) 
