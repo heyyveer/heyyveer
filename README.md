@@ -9,6 +9,11 @@ Email Me 👉 ✉️ **virtiw1303@gmail.com** For Collaboration/Project or Anyth
 - 📫 **How to reach me:** virtiw1303@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyveeer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heyveer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virtiw1303@gmail.com) 
