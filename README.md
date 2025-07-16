@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Veer Tiwari
-**A passionate Data Analyst 
+**A passionate Data Scientist 
 
 Email Me 👉 ✉️ **virtiw1303@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
