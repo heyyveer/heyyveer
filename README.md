@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **virtiw1303@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** private project 
-- 🌱 **I’m currently learning:** API
+- 🌱 **I’m currently learning:** CNN
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** virtiw1303@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
