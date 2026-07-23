@@ -58,16 +58,48 @@ Building intelligent AI products using LLMs, RAG, NLP, Computer Vision and Deep 
 
 # 🚀 Featured Projects
 
+## 🔍 AI Search Engine with LangChain
+
+Built an intelligent search engine powered by Retrieval-Augmented Generation (RAG) that retrieves relevant information and generates context-aware answers using Large Language Models.
+
+**Highlights**
+- 🔎 Semantic Search
+- 📄 Document Retrieval
+- 🤖 LLM-powered Responses
+- ⚡ Fast and Context-Aware Search
+
+**Tech Stack**
+
+`LangChain` `Google Gemini` `FAISS` `Sentence Transformers` `Python` `Streamlit`
+
+---
+
+## 💬 AI Chatbot with LangChain
+
+An intelligent conversational assistant capable of answering user queries using Retrieval-Augmented Generation and conversational memory.
+
+**Highlights**
+- 💭 Context-Aware Conversations
+- 📚 Document Question Answering
+- 🧠 Conversational Memory
+- ⚡ Fast Response Generation
+
+**Tech Stack**
+
+`LangChain` `Google Gemini` `FAISS` `Python` `Streamlit`
+
+---
+
 ## 🤖 AI Webinar Moderation System
 
-An AI-powered webinar intelligence system that automatically:
+An AI-powered webinar intelligence platform that automatically analyzes live chat to help hosts focus on the most important conversations.
 
-- Spam Detection
-- Duplicate Question Clustering
-- Sentiment Analysis
-- Priority Detection
-- AI Summarization
-- Semantic Search
+**Highlights**
+- 🚨 Priority Detection
+- 😊 Sentiment Analysis
+- 🔁 Duplicate Question Clustering
+- 🚫 Spam Detection
+- 📊 AI-powered Insights
 
 **Tech Stack**
 
@@ -77,40 +109,17 @@ An AI-powered webinar intelligence system that automatically:
 
 ## 📄 AI Research Paper Assistant
 
-A Retrieval-Augmented Generation (RAG) application that allows users to upload research papers and ask questions using LLMs.
+A Retrieval-Augmented Generation (RAG) application that enables users to upload research papers and ask natural language questions with source-aware answers.
+
+**Highlights**
+- 📚 Multi-PDF Support
+- 🔍 Semantic Search
+- 🤖 LLM-powered Q&A
+- ⚡ Fast Retrieval using FAISS
 
 **Tech Stack**
 
-`LangChain` `Google Gemini` `FAISS` `Sentence Transformers` `Streamlit`
-
----
-
-## 💬 DSA Instructor AI
-
-An AI-powered tutor that explains DSA concepts, algorithms and code interactively.
-
-**Tech Stack**
-
-`Python` `Google Gemini` `Prompt Engineering`
-
----
-
-## 🩺 Diabetes Prediction
-
-Machine Learning model with an interactive Streamlit interface.
-
----
-
-## 🏠 House Price Prediction
-
-Regression model built using Scikit-Learn.
-
----
-
-## 📊 IPL Data Analysis Dashboard
-
-Interactive Power BI dashboard for IPL data analytics.
-
+`LangChain` `Google Gemini` `FAISS` `Sentence Transformers` `Python` `Streamlit`
 ---
 
 # 💻 Tech Stack
