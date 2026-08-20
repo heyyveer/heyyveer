@@ -48,7 +48,7 @@ Building intelligent AI products using LLMs, RAG, NLP, Computer Vision and Deep 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://veertiwari.lovable.app">
+<a href="https://veer-portfolio-nu.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
